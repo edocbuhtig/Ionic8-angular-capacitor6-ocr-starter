@@ -16,4 +16,4 @@ Try below NPM command, only if you face issues while installing the (community) 
 npm install @capacitor-community/image-to-text  --legacy-peer-deps
 `
 
-## IMP:  To test on real android device make sure you have the latest version of Android Studio, and gradle Plugin update assitant is updated for the installed Studio Version
+### IMP:  To test on real android device make sure you have the latest version of Android Studio, and gradle Plugin update assitant is updated for the installed Studio Version
