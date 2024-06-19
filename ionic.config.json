@@ -1,0 +1,7 @@
+{
+  "name": "OCR_DEMO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
