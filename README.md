@@ -1,0 +1,1 @@
+# Ionic8-angular-capacitor6-ocr-starter
